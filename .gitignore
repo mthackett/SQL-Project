@@ -13,3 +13,5 @@ data_jobs_analysis/2_top_paying_job_skills.csv
 data_jobs_analysis/3_top_demand_remote_skills.csv
 data_jobs_analysis/3.1_top_demand_skills.csv
 data_jobs_analysis/4_avg_skill_salaries.csv
+skills_dim.csv
+skills.csv
