@@ -5,3 +5,11 @@
 /sql_course.session.sql
 data_jobs_analysis/top_job_skills.csv
 data_jobs_analysis/5_optimal_skills.csv
+redundant_skill_names.csv
+data_jobs_analysis/1_highest_paying_jobs.csv
+data_jobs_analysis/1.1_highest_paying_non_senior_jobs.csv
+data_jobs_analysis/2.1_top_paying_skill_counts.csv
+data_jobs_analysis/2_top_paying_job_skills.csv
+data_jobs_analysis/3_top_demand_remote_skills.csv
+data_jobs_analysis/3.1_top_demand_skills.csv
+data_jobs_analysis/4_avg_skill_salaries.csv
